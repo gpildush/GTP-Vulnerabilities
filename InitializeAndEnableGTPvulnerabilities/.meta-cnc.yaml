@@ -3,7 +3,7 @@
 # unique snippet name
 name: GTPvulnerabilitiesEnablement
 # label used for menu selection
-label: Initialize All GTP vulneralibites
+label: Initialize All GTP vulnerabilities
 description: Enable and initialize all GTP vulnerabilities
 
 # type of device configuration
