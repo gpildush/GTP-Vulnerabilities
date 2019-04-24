@@ -1,4 +1,4 @@
-    <threat-exception>
+
       <entry name="39610">
         <action>
           <default/>
@@ -44,4 +44,3 @@
           <default/>
         </action>
       </entry>
-    </threat-exception>

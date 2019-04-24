@@ -1,4 +1,4 @@
-    <threat-exception>
+
       <entry name="40065">
         <action>
           <default/>
@@ -89,4 +89,3 @@
           <track-by>source-and-destination</track-by>
         </time-attribute>
       </entry>
-    </threat-exception>
