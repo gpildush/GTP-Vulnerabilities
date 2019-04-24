@@ -1,0 +1,96 @@
+<response status="success" code="19">
+  <result total-count="1" count="1">
+    <threat-exception>
+      <entry name="40065">
+        <action>
+          <default/>
+        </action>
+        <time-attribute>
+          <interval>{{ 40065_interval }}</interval>
+          <threshold>{{ 40065_threshold }}</threshold>
+          <track-by>source-and-destination</track-by>
+        </time-attribute>
+      </entry>
+      <entry name="40054">
+        <action>
+          <default/>
+        </action>
+        <time-attribute>
+          <interval>1</interval>
+          <threshold>1000</threshold>
+          <track-by>source-and-destination</track-by>
+        </time-attribute>
+      </entry>
+      <entry name="40055">
+        <action>
+          <default/>
+        </action>
+        <time-attribute>
+          <interval>1</interval>
+          <threshold>1000</threshold>
+          <track-by>source-and-destination</track-by>
+        </time-attribute>
+      </entry>
+      <entry name="40063">
+        <action>
+          <default/>
+        </action>
+        <time-attribute min="4.0.0">
+          <interval>2</interval>
+          <threshold>255</threshold>
+          <track-by>source-and-destination</track-by>
+        </time-attribute>
+      </entry>
+      <entry name="40067">
+        <action>
+          <default/>
+        </action>
+        <time-attribute min="4.0.0">
+          <interval>2</interval>
+          <threshold>255</threshold>
+          <track-by>source-and-destination</track-by>
+        </time-attribute>
+      </entry>
+      <entry name="40064">
+        <action>
+          <default/>
+        </action>
+        <time-attribute min="4.0.0">
+          <interval>2</interval>
+          <threshold>255</threshold>
+          <track-by>source-and-destination</track-by>
+        </time-attribute>
+      </entry>
+      <entry name="40066">
+        <action>
+          <default/>
+        </action>
+        <time-attribute min="4.0.0">
+          <interval>2</interval>
+          <threshold>255</threshold>
+          <track-by>source-and-destination</track-by>
+        </time-attribute>
+      </entry>
+      <entry name="40056">
+        <action>
+          <default/>
+        </action>
+        <time-attribute min="4.0.0">
+          <interval>2</interval>
+          <threshold>255</threshold>
+          <track-by>source-and-destination</track-by>
+        </time-attribute>
+      </entry>
+      <entry name="40057">
+        <action>
+          <default/>
+        </action>
+        <time-attribute min="4.0.0">
+          <interval>2</interval>
+          <threshold>255</threshold>
+          <track-by>source-and-destination</track-by>
+        </time-attribute>
+      </entry>
+    </threat-exception>
+  </result>
+</response>

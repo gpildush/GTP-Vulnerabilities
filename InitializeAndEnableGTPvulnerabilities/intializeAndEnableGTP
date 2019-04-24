@@ -1,0 +1,51 @@
+<response status="success" code="19">
+  <result total-count="1" count="1">
+    <threat-exception>
+      <entry name="39610">
+        <action>
+          <default/>
+        </action>
+      </entry>
+      <entry name="39575">
+        <action>
+          <default/>
+        </action>
+      </entry>
+      <entry name="39084">
+        <action>
+          <default/>
+        </action>
+      </entry>
+      <entry name="39611">
+        <action>
+          <default/>
+        </action>
+      </entry>
+      <entry name="39085">
+        <action>
+          <default/>
+        </action>
+      </entry>
+      <entry name="39609">
+        <action>
+          <default/>
+        </action>
+      </entry>
+      <entry name="39086">
+        <action>
+          <default/>
+        </action>
+      </entry>
+      <entry name="39088">
+        <action>
+          <default/>
+        </action>
+      </entry>
+      <entry name="39608">
+        <action>
+          <default/>
+        </action>
+      </entry>
+    </threat-exception>
+  </result>
+</response>
