@@ -42,10 +42,10 @@ variables:
 snippets:
   - name: initialGTPnoAttributes
     xpath: /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/profiles/vulnerability/entry[@name='alert-vulnerability']/threat-exception
-    file: initializeAndEnableGTP
+    file: initializeAndEnableGTP.xml
   - name: initialGTPwithAttributes
     xpath: /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/profiles/vulnerability/entry[@name='alert-vulnerability']/threat-exception
-    file: initializeAndEnableGTPwithAttributes
+    file: initializeAndEnableGTPwithAttributes.xml
 
 
 # ---------------------------------------------------------------------
