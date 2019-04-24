@@ -3,7 +3,7 @@
 # unique snippet name
 name: GTPvulnerabilitiesEnablement
 # label used for menu selection
-label: sample
+label: Initialize All GTP vulneralibites
 description: Enable and initialize all GTP vulnerabilities
 
 # type of device configuration
@@ -26,11 +26,6 @@ labels:
 # variables used in the configuration templates
 # type_hint defines the form field used by panhandler
 # type_hints can be text, ip_address, or dropdown
-variables:
-  - name: var
-    default:
-    description: ok
-    type_hint: text
 
 # ---------------------------------------------------------------------
 # end of variables section
