@@ -39,7 +39,6 @@ variables:
     description: which flow direction to use to track GTPv2-C Modify Bearer Request Flood
     default: source-and-destination
     type_hint: text
-
   - name: 40054_interval
     description: time interval value for GTPv1-C Create PDP Context Request Flood
     default: 1
@@ -52,7 +51,6 @@ variables:
     description: which flow direction to use to track GTPv1-C Create PDP Context Request Flood
     default: source-and-destination
     type_hint: text
-
   - name: 40055_interval
     description: time interval value for GTPv1-C Update PDP Context Request Flood
     default: 1
@@ -65,7 +63,6 @@ variables:
     description: which flow direction to use to track GTPv1-C Update PDP Context Request Flood
     default: source-and-destination
     type_hint: text
-
   - name: 40063_interval
     description: time interval value for GTPv2-C Create Session Request Flood
     default: 2
@@ -78,7 +75,6 @@ variables:
     description: which flow direction to use to track GTPv2-C Create Session Request Flood
     default: source-and-destination
     type_hint: text
-
   - name: 40067_interval
     description: time interval value for GTPv2-C Echo Request Flood
     default: 2
@@ -91,7 +87,6 @@ variables:
     description: which flow direction to use to track GTPv2-C Echo Request Flood
     default: source-and-destination
     type_hint: text
-
   - name: 40064_interval
     description: time interval value for GTPv2-C Delete Session Request Flood
     default: 2
@@ -104,7 +99,6 @@ variables:
     description: which flow direction to use to track GTPv2-C Delete Session Request Flood
     default: source-and-destination
     type_hint: text
-
   - name: 40066_interval
     description: time interval value for GTPv2-C Release Access Bearer Request Flood
     default: 2
@@ -117,8 +111,6 @@ variables:
     description: which flow direction to use to track GTPv2-C Release Access Bearer Request Flood
     default: source-and-destination
     type_hint: text
-
-
   - name: 40056_interval
     description: time interval value for GTPv1-C Delete PDP Context Request Flood
     default: 2
@@ -131,7 +123,6 @@ variables:
     description: which flow direction to use to track GTPv1-C Delete PDP Context Request Flood
     default: source-and-destination
     type_hint: text
-
   - name: 40057_interval
     description: time interval value for GTPv1-C Echo Request Flood
     default: 2
