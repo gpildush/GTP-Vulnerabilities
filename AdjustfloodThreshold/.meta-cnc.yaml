@@ -27,7 +27,7 @@ labels:
 # type_hint defines the form field used by panhandler
 # type_hints can be text, ip_address, or dropdown
 variables:
-  - name: 40065_interval
+  - name: gtp_40065_interval
     description: time interval value for GTPv2-C Modify Bearer Request Flood
     default: 2
     type_hint: text

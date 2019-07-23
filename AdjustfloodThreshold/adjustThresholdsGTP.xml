@@ -4,7 +4,7 @@
           <default/>
         </action>
         <time-attribute>
-          <interval>{{ 40065_interval }}</interval>
+          <interval>{{ gtp_40065_interval }}</interval>
           <threshold>{{ 40065_threshold }}</threshold>
           <track-by>{{ 40065_src_dst }}</track-by>
         </time-attribute>
