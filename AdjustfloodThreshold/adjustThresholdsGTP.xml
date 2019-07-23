@@ -5,8 +5,8 @@
         </action>
         <time-attribute>
           <interval>{{ gtp_40065_interval }}</interval>
-          <threshold>{{ 40065_threshold }}</threshold>
-          <track-by>{{ 40065_src_dst }}</track-by>
+          <threshold>{{ gtp_40065_threshold }}</threshold>
+          <track-by>{{ gtp_40065_src_dst }}</track-by>
         </time-attribute>
       </entry>
       <entry name="40054">
@@ -14,9 +14,9 @@
           <default/>
         </action>
         <time-attribute>
-          <interval>{{ 40054_interval }}</interval>
-          <threshold>{{ 40054_threshold }}</threshold>
-          <track-by>{{ 40054_src_dst }}</track-by>
+          <interval>{{ gtp_40054_interval }}</interval>
+          <threshold>{{ gtp_40054_threshold }}</threshold>
+          <track-by>{{ gtp_40054_src_dst }}</track-by>
         </time-attribute>
       </entry>
       <entry name="40055">
@@ -24,9 +24,9 @@
           <default/>
         </action>
         <time-attribute>
-          <interval>{{ 40055_interval }}</interval>
-          <threshold>{{ 40055_threshold }}</threshold>
-          <track-by>{{ 40055_src_dst }}</track-by>
+          <interval>{{ gtp_40055_interval }}</interval>
+          <threshold>{{ gtp_40055_threshold }}</threshold>
+          <track-by>{{ gtp_40055_src_dst }}</track-by>
         </time-attribute>
       </entry>
       <entry name="40063">
@@ -34,9 +34,9 @@
           <default/>
         </action>
         <time-attribute min="4.0.0">
-          <interval>{{ 40063_interval }}</interval>
-          <threshold>{{ 40063_threshold }}</threshold>
-          <track-by>{{ 40063_src_dst }}</track-by>
+          <interval>{{ gtp_40063_interval }}</interval>
+          <threshold>{{ gtp_40063_threshold }}</threshold>
+          <track-by>{{ gtp_40063_src_dst }}</track-by>
         </time-attribute>
       </entry>
       <entry name="40067">
@@ -44,9 +44,9 @@
           <default/>
         </action>
         <time-attribute min="4.0.0">
-          <interval>{{ 40067_interval }}</interval>
-          <threshold>{{ 40067_threshold }}</threshold>
-          <track-by>{{ 40067_src_dst }}</track-by>
+          <interval>{{ gtp_40067_interval }}</interval>
+          <threshold>{{ gtp_40067_threshold }}</threshold>
+          <track-by>{{ gtp_40067_src_dst }}</track-by>
         </time-attribute>
       </entry>
       <entry name="40064">
@@ -54,9 +54,9 @@
           <default/>
         </action>
         <time-attribute min="4.0.0">
-          <interval>{{ 40064_interval }}</interval>
-          <threshold>{{ 40064_threshold }}</threshold>
-          <track-by>{{ 40064_src_dst }}</track-by>
+          <interval>{{ gtp_40064_interval }}</interval>
+          <threshold>{{ gtp_40064_threshold }}</threshold>
+          <track-by>{{ gtp_40064_src_dst }}</track-by>
         </time-attribute>
       </entry>
       <entry name="40066">
@@ -64,9 +64,9 @@
           <default/>
         </action>
         <time-attribute min="4.0.0">
-          <interval>{{ 40066_interval }}</interval>
-          <threshold>{{ 40066_ threshold }}</threshold>
-          <track-by>{{ 40066_src_dst }}</track-by>
+          <interval>{{ gtp_40066_interval }}</interval>
+          <threshold>{{ gtp_40066_ threshold }}</threshold>
+          <track-by>{{ gtp_40066_src_dst }}</track-by>
         </time-attribute>
       </entry>
       <entry name="40056">
@@ -74,9 +74,9 @@
           <default/>
         </action>
         <time-attribute min="4.0.0">
-          <interval>{{ 40056_interval }}</interval>
-          <threshold>{{ 40056_threshold }}</threshold>
-          <track-by>{{ 40056_src_dst }}</track-by>
+          <interval>{{ gtp_40056_interval }}</interval>
+          <threshold>{{ gtp_40056_threshold }}</threshold>
+          <track-by>{{ gtp_40056_src_dst }}</track-by>
         </time-attribute>
       </entry>
       <entry name="40057">
@@ -84,8 +84,8 @@
           <default/>
         </action>
         <time-attribute min="4.0.0">
-          <interval>{{ 40057_interval }}</interval>
-          <threshold>{{ 40057_threshold }}</threshold>
-          <track-by>{{ 40057_src_dst }}</track-by>
+          <interval>{{ gtp_40057_interval }}</interval>
+          <threshold>{{ gtp_40057_threshold }}</threshold>
+          <track-by>{{ gtp_40057_src_dst }}</track-by>
         </time-attribute>
       </entry>

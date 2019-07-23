@@ -28,111 +28,111 @@ labels:
 # type_hints can be text, ip_address, or dropdown
 variables:
   - name: gtp_40065_interval
-    description: time interval value for GTPv2-C Modify Bearer Request Flood
+    description: 40065 - Time interval value for GTPv2-C Modify Bearer Request Flood -
     default: 2
     type_hint: text
-  - name: 40065_threshold
-    description: threshold value for GTPv2-C Modify Bearer Request Flood
+  - name: gtp_40065_threshold
+    description: 40065 - Threshold value for GTPv2-C Modify Bearer Request Flood -
     default: 255
     type_hint: text
-  - name: 40065_src_dst
-    description: which flow direction to use to track GTPv2-C Modify Bearer Request Flood
+  - name: gtp_40065_src_dst
+    description: 40065 - Which flow direction to use to track GTPv2-C Modify Bearer Request Flood?
     default: source-and-destination
     type_hint: text
-  - name: 40054_interval
-    description: time interval value for GTPv1-C Create PDP Context Request Flood
+  - name: gtp_40054_interval
+    description: 40054 - Time interval value for GTPv1-C Create PDP Context Request Flood -
     default: 1
     type_hint: text
-  - name: 40054_threshold
-    description: threshold value for GTPv1-C Create PDP Context Request Flood
+  - name: gtp_40054_threshold
+    description: 40054 - Threshold value for GTPv1-C Create PDP Context Request Flood -
     default: 1000
     type_hint: text
-  - name: 40054_src_dst
-    description: which flow direction to use to track GTPv1-C Create PDP Context Request Flood
+  - name: gtp_40054_src_dst
+    description: 40054 - Which flow direction to use to track GTPv1-C Create PDP Context Request Flood?
     default: source-and-destination
     type_hint: text
-  - name: 40055_interval
-    description: time interval value for GTPv1-C Update PDP Context Request Flood
+  - name: gtp_40055_interval
+    description: 40055 - Time interval value for GTPv1-C Update PDP Context Request Flood -
     default: 1
     type_hint: text
-  - name: 40055_threshold
-    description: threshold value for GTPv1-C Update PDP Context Request Flood
+  - name: gtp_40055_threshold
+    description: 40055 - Threshold value for GTPv1-C Update PDP Context Request Flood -
     default: 1000
     type_hint: text
-  - name: 40055_src_dst
-    description: which flow direction to use to track GTPv1-C Update PDP Context Request Flood
+  - name: gtp_40055_src_dst
+    description: 40055 - Which flow direction to use to track GTPv1-C Update PDP Context Request Flood?
     default: source-and-destination
     type_hint: text
-  - name: 40063_interval
-    description: time interval value for GTPv2-C Create Session Request Flood
+  - name: gtp_40063_interval
+    description: 40063 - Time interval value for GTPv2-C Create Session Request Flood -
     default: 2
     type_hint: text
-  - name: 40063_threshold
-    description: threshold value for GTPv2-C Create Session Request Flood
+  - name: gtp_40063_threshold
+    description: 40063 - Threshold value for GTPv2-C Create Session Request Flood -
     default: 255
     type_hint: text
-  - name: 40063_src_dst
-    description: which flow direction to use to track GTPv2-C Create Session Request Flood
+  - name: gtp_40063_src_dst
+    description: 40063 - Which flow direction to use to track GTPv2-C Create Session Request Flood?
     default: source-and-destination
     type_hint: text
-  - name: 40067_interval
-    description: time interval value for GTPv2-C Echo Request Flood
+  - name: gtp_40067_interval
+    description: 40067 - Time interval value for GTPv2-C Echo Request Flood -
     default: 2
     type_hint: text
-  - name: 40067_threshold
-    description: threshold value for GTPv2-C Echo Request Flood
+  - name: gtp_40067_threshold
+    description: 40067 - Threshold value for GTPv2-C Echo Request Flood -
     default: 255
     type_hint: text
-  - name: 40067_src_dst
-    description: which flow direction to use to track GTPv2-C Echo Request Flood
+  - name: gtp_40067_src_dst
+    description: 40067 - Which flow direction to use to track GTPv2-C Echo Request Flood?
     default: source-and-destination
     type_hint: text
-  - name: 40064_interval
-    description: time interval value for GTPv2-C Delete Session Request Flood
+  - name: gtp_40064_interval
+    description: 40064 - Time interval value for GTPv2-C Delete Session Request Flood -
     default: 2
     type_hint: text
-  - name: 40064_threshold
-    description: threshold value for GTPv2-C Delete Session Request Flood
+  - name: gtp_40064_threshold
+    description: 40064 - Threshold value for GTPv2-C Delete Session Request Flood -
     default: 255
     type_hint: text
-  - name: 40064_src_dst
-    description: which flow direction to use to track GTPv2-C Delete Session Request Flood
+  - name: gtp_40064_src_dst
+    description: 40064 - Which flow direction to use to track GTPv2-C Delete Session Request Flood?
     default: source-and-destination
     type_hint: text
-  - name: 40066_interval
-    description: time interval value for GTPv2-C Release Access Bearer Request Flood
+  - name: gtp_40066_interval
+    description: 40066 - Time interval value for GTPv2-C Release Access Bearer Request Flood -
     default: 2
     type_hint: text
-  - name: 40066_threshold
-    description: threshold value for GTPv2-C Release Access Bearer Request Flood
+  - name: gtp_40066_threshold
+    description: 40066 - Threshold value for GTPv2-C Release Access Bearer Request Flood -
     default: 255
     type_hint: text
-  - name: 40066_src_dst
-    description: which flow direction to use to track GTPv2-C Release Access Bearer Request Flood
+  - name: gtp_40066_src_dst
+    description: 40066 - Which flow direction to use to track GTPv2-C Release Access Bearer Request Flood?
     default: source-and-destination
     type_hint: text
-  - name: 40056_interval
-    description: time interval value for GTPv1-C Delete PDP Context Request Flood
+  - name: gtp_40056_interval
+    description: 40056 - Time interval value for GTPv1-C Delete PDP Context Request Flood -
     default: 2
     type_hint: text
-  - name: 40056_threshold
-    description: threshold value for GTPv1-C Delete PDP Context Request Flood
+  - name: gtp_40056_threshold
+    description: 40056 - Threshold value for GTPv1-C Delete PDP Context Request Flood -
     default: 255
     type_hint: text
-  - name: 40056_src_dst
-    description: which flow direction to use to track GTPv1-C Delete PDP Context Request Flood
+  - name: gtp_40056_src_dst
+    description: 40056 - Which flow direction to use to track GTPv1-C Delete PDP Context Request Flood?
     default: source-and-destination
     type_hint: text
-  - name: 40057_interval
-    description: time interval value for GTPv1-C Echo Request Flood
+  - name: gtp_40057_interval
+    description: 40057 - Time interval value for GTPv1-C Echo Request Flood -
     default: 2
     type_hint: text
-  - name: 40057_threshold
-    description: threshold value for GTPv1-C Echo Request Flood
+  - name: gtp_40057_threshold
+    description: 40057 - Threshold value for GTPv1-C Echo Request Flood -
     default: 255
     type_hint: text
-  - name: 40057_src_dst
-    description: which flow direction to use to track GTPv1-C Echo Request Flood
+  - name: gtp_40057_src_dst
+    description: 40057 - Which flow direction to use to track GTPv1-C Echo Request Flood?
     default: source-and-destination
     type_hint: text
 
