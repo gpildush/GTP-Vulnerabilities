@@ -65,7 +65,7 @@
         </action>
         <time-attribute min="4.0.0">
           <interval>{{ gtp_40066_interval }}</interval>
-          <threshold>{{ gtp_40066_ threshold }}</threshold>
+          <threshold>{{ gtp_40066_threshold }}</threshold>
           <track-by>{{ gtp_40066_src_dst }}</track-by>
         </time-attribute>
       </entry>
