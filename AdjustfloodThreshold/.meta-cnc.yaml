@@ -28,7 +28,7 @@ labels:
 # type_hints can be text, ip_address, or dropdown
 variables:
   - name: gtp_40065_interval
-    description: Time interval value for GTPv2-C Modify Bearer Request Flood
+    description: 40065 - Time interval value for GTPv2-C Modify Bearer Request Flood
     default: 2
     type_hint: text
   - name: gtp_40065_threshold
